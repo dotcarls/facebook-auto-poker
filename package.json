@@ -1,0 +1,14 @@
+{
+  "name": "facebook-auto-poker",
+  "version": "0.0.1",
+  "description": "An auto poker for facebook",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tim Carlson (tim.carlson@gmail.com)",
+  "license": "MIT",
+  "dependencies": {
+    "casperjs": "^1.1.0-beta5"
+  }
+}
